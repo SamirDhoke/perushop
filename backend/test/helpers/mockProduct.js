@@ -1,0 +1,8 @@
+const product = {
+	name: '500 ml water bottle',
+	description: 'Commodo dolore sunt est deserunt ea occaecat sed eiusmod amet sunt ullamco reprehenderit ullamco sit veniam enim culpa commodo cillum aute magna ea id irure voluptate ut est in quis in enim esse dolor consequat velit ut adipisicing voluptate exercitation nulla non in ad quis officia aliqua nostrud laboris do in voluptate dolor elit consectetur commodo labore sint aliquip dolor laboris mollit deserunt do duis exercitation duis in elit labore in mollit adipisicing cupidatat pariatur eu in consectetur consectetur aute pariatur dolore occaecat aliquip quis labore cillum minim culpa nulla duis non duis voluptate laboris est pariatur et excepteur amet qui reprehenderit proident eiusmod sed nostrud dolor laboris nisi in do proident anim mollit in esse aliqua eu sit eu eiusmod ex sed tempor deserunt labore dolor dolor laboris irure sit deserunt in irure enim ea laboris aliqua laborum pariatur in veniam sit est deserunt id exercitation velit occaecat pariatur anim nostrud ut excepteur ut laborum labore cupidatat ex adipisicing dolore fugiat anim fugiat velit laborum dolor esse sint reprehenderit excepteur nulla cupidatat cupidatat aliqua velit enim esse in do sed occaecat ex exercitation labore aliquip ullamco qui amet mollit id dolore nisi esse in commodo sed cillum velit fugiat non nulla non deserunt consectetur ad magna voluptate officia laborum deserunt ad cupidatat do in ut eiusmod cupidatat dolor velit reprehenderit adipisicing aute et ea commodo sint velit id cillum pariatur cupidatat et consectetur officia.',
+	stock: 5,
+	discount: 0.22
+};
+
+module.exports = product;
