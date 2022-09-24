@@ -1,0 +1,22 @@
+{
+  "name": "perushop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:front": "cd ./frontend && npm start",
+    "start:back": "cd ./backend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirDhoke/perushop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamirDhoke/perushop/issues"
+  },
+  "homepage": "https://github.com/SamirDhoke/perushop#readme"
+}
